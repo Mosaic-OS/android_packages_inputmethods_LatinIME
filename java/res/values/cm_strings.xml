@@ -55,4 +55,31 @@ disposition rather than other common dispositions for Latin languages. [CHAR LIM
     <!-- Preference item for always showing the emoji key -->
     <string name="show_emoji_key">Show emoji key</string>
     <string name="show_emoji_key_summary">Always show emoji key. When this option is enabled, the language switch key cannot be shown.</string>
+
+    <!-- Summary of the preference item for enabling the split keyboard layout [CHAR LIMIT=65] -->
+    <string name="enable_split_keyboard_summary">Only in landscape</string>
+
+    <!-- Preference item for showing keys near the middle on both halves of the split keyboard [CHAR LIMIT=65] -->
+    <string name="split_keyboard_duplicate_keys">Duplicate center keys</string>
+    <string name="split_keyboard_duplicate_keys_summary">Show keys near the middle on both halves</string>
+
+    <!-- Spoken description of the suggestion strip key that splits the keyboard into two halves -->
+    <string name="spoken_description_split_keyboard">Split keyboard</string>
+    <!-- Spoken description of the suggestion strip key that joins the split keyboard halves -->
+    <string name="spoken_description_merge_keyboard">Merge keyboard</string>
+
+    <!-- Spoken description of the suggestion strip key that detaches the keyboard into a floating window -->
+    <string name="spoken_description_float_keyboard">Float keyboard</string>
+    <!-- Spoken description of the suggestion strip key that docks the floating keyboard back to the bottom -->
+    <string name="spoken_description_dock_keyboard">Dock keyboard</string>
+    <!-- Content description of the handle used to move the floating keyboard -->
+    <string name="floating_keyboard_drag_handle">Move keyboard</string>
+    <!-- Content description of the handle used to resize the floating keyboard -->
+    <string name="floating_keyboard_resize_handle">Resize keyboard</string>
+    <!-- Button that restores the default size and position of the floating keyboard [CHAR LIMIT=12] -->
+    <string name="floating_keyboard_reset">Reset</string>
+    <!-- Content description of the floating keyboard button that hides the keyboard -->
+    <string name="floating_keyboard_hide">Hide keyboard</string>
+    <!-- Content description of the floating keyboard button that switches to another input method -->
+    <string name="floating_keyboard_switch_ime">Switch input method</string>
 </resources>
